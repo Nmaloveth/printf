@@ -1,4 +1,4 @@
-# _printf :100:
+# _printf 
 
 A formatted output conversion C project completed as part of the low-level
 programming and algorithm track at ALX. The program is a pseudo-
@@ -21,9 +21,6 @@ converted for output.
 
 ## Authors
 
-* gregory <[docdogood]
-* tibral sports <[xcoba]
+* Chidinma Loveth Anoliefo
+* Agwu Queen 
 
-<p align="center">
-  <img src="https://i.ibb.co/FJyysxq/printf.png" alt="printf logo">
-</p>
